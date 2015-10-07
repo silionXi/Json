@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JsonSample</string>
+    <string name="read_json">Read Json</string>
+</resources>
